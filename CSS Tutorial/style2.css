@@ -1,0 +1,257 @@
+/* =================================CSS Level 3 ==========================================*/
+
+
+/* #box1 {
+height: 100px;
+width: 200px;
+background-color: green;
+font-size: 10px;
+}
+
+#box2 {
+    height: 50px;
+    width: 30%;
+    margin-left: 10%;
+    background-color: yellow;
+    font-size: 2em;
+    width: 5em;
+    width: 5rem;
+    height: 50vh;
+    width: 50vw;
+} */
+
+
+/* Position property */
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px, solid,black;
+    display: inline-block;
+}
+
+#box1 {
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+#box3 {
+    position: absolute;
+    top: 500px;
+    left: 20px;
+    z-index: -10px;
+}
+
+#box4 {
+    position: fixed;
+    top: 50px;
+    z-index: 10px;
+} */
+
+
+/* Background-Image */
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px, solid,black;
+    display: inline-block;
+}
+
+#box1 {
+    background-image: url("Cat_photo.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+
+/* Practice Set 5 */
+/* div {
+    height: 100px;
+    width: 100px;
+    background-image: url("Nature.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    top: 30px;
+} */
+
+
+
+/* ======================================CSS Level 4============================================ */
+
+
+/* Flexbox */
+
+/* body {
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container {
+    height: 300px;
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;      ===This is a Comment line===
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;         ===This is a Comment line===
+} 
+
+#box1 {
+    background-color: aqua;
+    flex-grow: 1;
+}
+
+#box2 {
+    background-color: pink;
+    height: 200px;
+    align-self: flex-start;
+   flex-shrink: 2;                       ===This is a Comment line===*
+    flex-grow: 1;
+}
+
+#box3 {
+    background-color: darkkhaki;
+}
+
+#box4 {
+    background-color: indianred;
+}
+
+#box5 {
+    background-color: slateblue;
+    align-self: flex-end;               ===This is a Comment line===*
+} */
+
+
+
+/* ================Practice Set 6=================  */
+
+
+/* div {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}   */
+
+
+ .navbar {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+}
+
+
+
+/* ==============Media Quaries================ */
+
+
+/* div {
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
+
+@media(width: 600px) {
+    div {
+        background-color: red;
+    }
+}
+
+@media(max-width: 600px) {
+    div {
+        background-color: green ;
+    }
+}
+
+@media(min-width: 200px) and (max-width: 300px) {
+    div {
+        background-color: blue;
+    }
+    
+} */
+
+
+/* =============Practice Set 7================ */
+
+/* div {
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+}
+
+@media(max-width: 300px) {
+    div {
+        background-color: green ;
+    }
+}
+
+@media(min-width: 300px) and (max-width: 400px) {
+    div {
+        background-color: pink;
+    }
+}
+
+@media(min-width: 400px) and (max-width: 600px) {
+    div {
+        background-color: red;
+    }
+}
+
+@media(min-width: 600px) {
+    div {
+        background-color: blue ;
+    }
+} */

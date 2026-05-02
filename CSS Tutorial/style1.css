@@ -1,0 +1,199 @@
+/* ========================================= CSS Level 3============================================ */
+
+
+/* h1 {
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+border: 2px;
+border-style: dashed;
+border-color:black;
+text-align: center;
+
+}*/
+
+
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 5px;
+    border-style: solid;
+    border-color: red; 
+    border:2px solid red;
+    text-align: left;
+    border-radius: 15px;
+    padding-left: 25px;  
+    padding: 1px 2px 3px 4px;
+    margin-top: 25px;
+}  */
+
+
+
+/* Practice Set 3 */
+
+/* div {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+} */
+
+
+
+
+  /* //Home Work  */
+
+  /* h1 {
+    color: black;
+  }
+
+  div {
+  height: 600px;
+  width: 164px;
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+  padding: 5px 5px 6px 5px;
+ }
+
+  #one {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+  }
+   #two {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+  }
+   #three {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    border-radius: 50%;
+    text-align: center;
+   } */
+
+
+    /* // creating navbar 
+
+   * {
+    padding: 0;
+    margin: 0;
+    color: white;
+   }
+
+
+   #navbar {
+    height: 60px;
+    background-color:#0f1111;
+   }
+   button {
+    background-color: #f08804;
+   }
+   #logo {
+    color: #f08804;
+    font-size: 25px;
+   }
+   a {
+    margin-right: 200px;
+   } */
+
+
+
+
+   /* //display properties */
+
+   /* div {
+    background-color: pink;
+    display: inline;
+   }
+   button {
+    display: block;
+   } */
+   
+
+   /* div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+   }
+   #Box2 {
+    display: none;
+   } */
+
+
+
+   /* Alpha Channel
+   div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+   }
+
+   #box1 {
+    background-color: rgba(0, 0, 255, 0.5);
+   }
+
+    #box2 {
+    background-color: rgba(0, 0, 255, 0.75);
+   }
+
+    #box3 {
+    background-color: rgba(0, 0, 255, 1);
+   } */
+
+
+
+   
+   /* Practice Set 4 */
+   
+   * {
+    padding: 0;
+    margin: 0;
+    color: white;
+   }
+
+   #navbar {
+    height: 60px;
+    background-color:#0f1111;
+   }
+   button {
+    background-color: #f08804;
+   }
+   #logo {
+    color: #f08804;
+    font-size: 25px;
+   }
+   a {
+    margin-right: 200px;
+   } 
+
+   #Content {
+    height: 500px;
+   }
+
+  .contentBox {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    color: black;
+    border: 2px, solid, black;
+    display: inline-block;
+   } 
+
+   footer {
+    background-color:#0f1111 ;
+    text-align: center;
+   }
